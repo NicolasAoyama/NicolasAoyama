@@ -1,6 +1,4 @@
 ## Salve, sou o Nicolas
-Formado em 2024 em Analise e Desenvolvimento de Sistemas. Atuando como Suporte Tecnico na empresa NextSolutions desde 2023.
-Atualmente migrando para o mercado de dados.
 
 <a href="https://github.com/NicolasAoyama/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NicolasAoyama&amp;show_icons=true&amp;theme=radical" />
